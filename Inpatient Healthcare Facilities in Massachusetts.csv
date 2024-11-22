@@ -1,0 +1,428 @@
+IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospital,Hospital system,Telephone,Facility type,norm_address,norm_name,Nursing homes within 30 minutes drive time,Hospitals within 30 minutes drive time
+2014,North Shore Medical Center - Salem Hospital,Salem Hospital,81 Highland Avenue,Salem,1970,Northeastern Massachusetts,Community-High Public Payer Hospital,Mass General Brigham,(978) 741-1200,Hospital,81 highland avenue,north shore medical center  salem hospital,28.0,3.0
+2059,New England Baptist Hospital,New England Baptist Hospital,125 Parker Hill Avenue,Boston,2120,Metro Boston,Specialty Hospital,Beth Israel Lahey Health,(617) 754-5000,Hospital,125 parker hill avenue,new england baptist hospital,48.0,18.0
+2107,South Shore Hospital,South Shore Hospital,55 Fogg Road,Weymouth,2190,Metro South,Community Hospital,South Shore Health System,(781) 624-8000,Hospital,55 fogg road,south shore hospital,53.0,11.0
+2058,Melrose-Wakefield Hospital,Melrose-Wakefield Hospital,585 Lebanon Street,Melrose,2176,Metro Boston,Community-High Public Payer Hospital,Tufts Medicine,(781) 979-3000,Hospital,585 lebanon street,melrosewakefield hospital,56.0,16.0
+2022,Steward Morton Hospital,Morton Hospital,88 Washington Street,Taunton,2780,Metro South,Community-High Public Payer Hospital,Steward Health Care,(508) 828-7000,Hospital,88 washington street,steward morton hospital,31.0,4.0
+2OWP,North Adams Regional Hospital,North Adams Regional,71 Hospital Avenue,North Adams,1247,Western Massachusetts,Community Hospital,Berkshire Health Systems,,Hospital,71 hospital avenue,north adams regional hospital,2.0,0.0
+2011,Steward Saint Anne's Hospital,Saint Anne's Hospital,795 Middle Street,Fall River,2721,Southcoast,Community-High Public Payer Hospital,Steward Health Care,(508) 674-5600,Hospital,795 middle street,steward saint annes hospital,27.0,3.0
+2036,Heywood Hospital,Heywood Memorial Hospital,242 Green Street,Gardner,1440,Central Massachusetts,Community-High Public Payer Hospital,Heywood Healthcare,(978) 632-3420,Hospital,242 green street,heywood hospital,11.0,2.0
+2076,Baystate Noble Hospital,Baystate Noble Hospital,115 West Silver Street,Westfield,1085,Western Massachusetts,Community-High Public Payer Hospital,Baystate Health,(413) 568-2811,Hospital,115 west silver street,baystate noble hospital,22.0,3.0
+2226,Athol Memorial Hospital,Athol Hospital,2033 Main Street,Athol,1331,Central Massachusetts,Community-High Public Payer Hospital,Heywood Healthcare,(978) 249-3511,Hospital,2033 main street,athol memorial hospital,4.0,1.0
+2100,Sturdy Memorial Hospital,Sturdy Memorial Hospital,211 Park Street,Attleboro,2703,Metro West,Community-High Public Payer Hospital,Sturdy Memorial Foundation,(508) 222-5200,Hospital,211 park street,sturdy memorial hospital,18.0,2.0
+2099,Lawrence General Hospital,Lawrence General Hospital,One General Street,Lawrence,1842,Northeastern Massachusetts,Community-High Public Payer Hospital,Lawrence General Hospital and Affiliates,(978) 683-4000,Hospital,one general street,lawrence general hospital,55.0,8.0
+2114,Steward Norwood Hospital,Norwood Hospital,800 Washington Street,Norwood,2062,Metro West,Community-High Public Payer Hospital,Steward Health Care,(781) 769-4000,Hospital,800 washington street,steward norwood hospital,59.0,8.0
+2069,Beth Israel Deaconess Medical Center East,BIDMC East,330 Brookline Avenue,Boston,2215,Metro Boston,Academic Medical Center,Beth Israel Lahey Health,(617) 667-7000,Hospital,330 brookline avenue,beth israel deaconess medical center east,61.0,20.0
+2128,Saint Vincent Hospital,Saint Vincent Hospital,123 Summer Street,Worcester,1608,Central Massachusetts,Teaching Hospital,Tenet Healthcare,(508) 363-5000,Hospital,123 summer street,saint vincent hospital,41.0,5.0
+2105,Milford Regional Medical Center,Milford Regional Medical Center,14 Prospect Street,Milford,1757,Metro West,Community Hospital,"Milford Regional Medical Ctr, Inc. & Affil.",(508) 473-1190,Hospital,14 prospect street,milford regional medical center,24.0,1.0
+2139,Boston Children's Hospital,Boston Children's Hospital,300 Longwood Avenue,Boston,2115,Metro Boston,Specialty Hospital,Boston Children's Hospital and Subsid.,(617) 355-6000,Hospital,300 longwood avenue,boston childrens hospital,60.0,19.0
+2103,UMass Memorial Marlborough Hospital,Marlborough Hospital,157 Union Street,Marlborough,1752,Metro West,Community-High Public Payer Hospital,UMass Memorial Health Care,(508) 481-5000,Hospital,157 union street,umass memorial marlborough hospital,45.0,6.0
+2155,Cooley Dickinson Hospital,Cooley Dickinson Hospital,30 Locust Street,Northampton,1060,Western Massachusetts,Community-High Public Payer Hospital,Mass General Brigham,(413) 582-2000,Hospital,30 locust street,cooley dickinson hospital,22.0,4.0
+2167,Massachusetts Eye and Ear Infirmary,Massachusetts Eye and Ear Infirmary,243 Charles Street,Boston,2114,Metro Boston,Specialty Hospital,Mass General Brigham,(617) 523-7900,Hospital,243 charles street,massachusetts eye and ear infirmary,75.0,20.0
+2106,Southcoast Health - Tobey Hospital,Tobey Hospital,43 High Street,Wareham,2571,Southcoast,Community Hospital,South Shore Health System,(508) 295-0880,Hospital,43 high street,southcoast health  tobey hospital,21.0,1.0
+2044,Nantucket Cottage Hospital,Nantucket Cottage Hospital,57 Prospect Street,Nantucket,2554,Cape and Islands,Community Hospital,Mass General Brigham,(508) 825-8100,Hospital,57 prospect street,nantucket cottage hospital,1.0,0.0
+2020,Metrowest Medical Center-Framingham Union Hospital,Framingham Union Hospital,115 Lincoln Street,Framingham,1702,Metro West,Community-High Public Payer Hospital,Tenet Healthcare,(508) 383-1000,Hospital,115 lincoln street,metrowest medical centerframingham union hospital,45.0,5.0
+2311,Steward Good Samaritan Medical Center,Good Samaritan Medical Center,235 North Pearl Street,Brockton,2301,Metro South,Community-High Public Payer Hospital,Steward Health Care,(508) 427-3000,Hospital,235 north pearl street,steward good samaritan medical center,64.0,9.0
+2003,Steward Carney Hospital,Carney Hospital,2100 Dorchester Avenue,Boston,2124,Metro Boston,Teaching Hospital,Steward Health Care,(617) 296-4000,Hospital,2100 dorchester avenue,steward carney hospital,72.0,21.0
+2042,Martha's Vineyard Hospital,Martha's Vineyard Hospital,One Hospital Road,Oak Bluffs,2557,Cape and Islands,Community Hospital,Mass General Brigham,(508) 693-0410,Hospital,one hospital road,marthas vineyard hospital,1.0,0.0
+2018,Emerson Hospital,Emerson Hospital,133 Old Road to Nine Acre Corner,Concord,1742,Northeastern Massachusetts,Community Hospital,Emerson Health System Inc. and Subsid.,(978) 369-1400,Hospital,133 old road to nine acre corner,emerson hospital,48.0,6.0
+2149,Mercy Medical Center,Mercy Medical Center,271 Carew Street,Springfield,1104,Western Massachusetts,Community-High Public Payer Hospital,Trinity Health,(413) 748-9000,Hospital,271 carew street,mercy medical center,32.0,5.0
+2108,CHA Cambridge Hospital,Cambridge Hospital,1493 Cambridge Street,Cambridge,2139,Metro Boston,Teaching Hospital,Cambridge Health Alliance,(617) 665-1000,Hospital,1493 cambridge street,cha cambridge hospital,59.0,20.0
+2120,Baystate Franklin Medical Center,Baystate Franklin Medical Center,164 High Street,Greenfield,1301,Western Massachusetts,Community-High Public Payer Hospital,Baystate Health,(413) 773-0211,Hospital,164 high street,baystate franklin medical center,4.0,1.0
+2131,Steward Holy Family Hospital - Haverhill,Holy Family Hospital-Haverhill,140 Lincoln Avenue,Haverhill,1830,Northeastern Massachusetts,Community-High Public Payer Hospital,Steward Health Care,(978) 374-2000,Hospital,140 lincoln avenue,steward holy family hospital  haverhill,31.0,4.0
+2337,Southcoast Health - Charlton Memorial Hospital,Charlton Memorial Hospital,363 Highland Avenue,Fall River,2720,Southcoast,Community Hospital,South Shore Health System,(508) 679-3131,Hospital,363 highland avenue,southcoast health  charlton memorial hospital,28.0,3.0
+2313,Berkshire Medical Center,Berkshire Medical Center,725 North Street,Pittsfield,1201,Western Massachusetts,Community-High Public Payer Hospital,Berkshire Health Systems,(413) 447-2000,Hospital,725 north street,berkshire medical center,8.0,0.0
+2075,Newton-Wellesley Hospital,Newton-Wellesley Hospital,2014 Washington Street,Newton,2462,Metro Boston,Community Hospital,Mass General Brigham,(617) 243-6000,Hospital,2014 washington street,newtonwellesley hospital,95.0,25.0
+2I6I,Lahey Medical Center - Peabody,Lahey Medical Center,1 Essex Center Drive,Peabody,1960,Northeastern Massachusetts,Teaching Hospital,Beth Israel Lahey Health,(978) 538-4000,Hospital,1 essex center drive,lahey medical center  peabody,56.0,10.0
+2143,Harrington Memorial Hospital,Harrington Memorial Hospital,100 South Street,Southbridge,1550,Central Massachusetts,Community-High Public Payer Hospital,"Harrington Healthcare System, Inc.",(508) 765-9771,Hospital,100 south street,harrington memorial hospital,10.0,1.0
+2342,Lahey Hospital & Medical Center - Burlington,Lahey Hospital & Medical Center,41 Mall Road,Burlington,1806,Northeastern Massachusetts,Teaching Hospital,Beth Israel Lahey Health,(781) 744-5100,Hospital,41 mall road,lahey hospital  medical center  burlington,81.0,16.0
+2118,Signature Healthcare Brockton Hospital,Brockton Hospital,680 Centre Street,Brockton,2302,Metro South,Community-High Public Payer Hospital,Signature Healthcare Corporation,(508) 941-7000,Hospital,680 centre street,signature healthcare brockton hospital,34.0,3.0
+2010,Southcoast Health - St. Luke's Hospital,St. Luke's Hospital,101 Page Street,New Bedford,2740,Southcoast,Community-High Public Payer Hospital,Southcoast Health System,(508) 997-1515,Hospital,101 page street,southcoast health  st lukes hospital,24.0,3.0
+2335,Dana-Farber Cancer Institute,Dana-Farber Cancer Institute,450 Brookline Avenue,Boston,2215,Metro Boston,Specialty Hospital,Dana-Farber Cancer Institute and Subsid.,(617) 632-3000,Hospital,450 brookline avenue,danafarber cancer institute,58.0,19.0
+2341,Brigham and Women's Hospital,Brigham and Women's Hospital,75 Francis Street,Boston,2115,Metro Boston,Academic Medical Center,Mass General Brigham,(617) 732-5500,Hospital,75 francis street,brigham and womens hospital,51.0,19.0
+2085,Steward St. Elizabeth's Medical Center,St. Elizabeth's Medical Center,736 Cambridge Street,Brighton,2135,Metro Boston,Teaching Hospital,Steward Health Care,(617) 789-3000,Hospital,736 cambridge street,steward st elizabeths medical center,61.0,19.0
+2052,Fairview Hospital,Fairview Hospital,29 Lewis Avenue,Great Barrington,1230,Western Massachusetts,Community-High Public Payer Hospital,Berkshire Health Systems,(413) 528-8600,Hospital,29 lewis avenue,fairview hospital,5.0,0.0
+2029,Lowell General Hospital - Saints Campus,Lowell General Hospital - Saints Campus,1 Hospital Drive,Lowell,1852,Northeastern Massachusetts,Community-High Public Payer Hospital,Tufts Medicine,(978) 458-1411,Hospital,1 hospital drive,lowell general hospital  saints campus,41.0,5.0
+2071,Mount Auburn Hospital,Mount Auburn Hospital,330 Mount Auburn Street,Cambridge,2138,Metro Boston,Teaching Hospital,Beth Israel Lahey Health,(617) 492-3500,Hospital,330 mount auburn street,mount auburn hospital,60.0,19.0
+2054,Beth Israel Deaconess Hospital - Needham,Beth Israel Needham,148 Chestnut Street,Needham,2192,Metro Boston,Community Hospital,Beth Israel Lahey Health,(781) 453-3000,Hospital,148 chestnut street,beth israel deaconess hospital  needham,82.0,24.0
+2039,Metrowest Medical Center-Leonard Morse Hospital,Leonard Morse Hospital,67 Union Street,Natick,1760,Metro West,Community-High Public Payer Hospital,Tenet Healthcare,(508) 650-7000,Hospital,67 union street,metrowest medical centerleonard morse hospital,42.0,5.0
+2339,Baystate Medical Center,Baystate Medical Center,759 Chestnut Street,Springfield,1199,Western Massachusetts,Teaching Hospital,Baystate Health,(413) 794-0000,Hospital,759 chestnut street,baystate medical center,32.0,5.0
+2016,Northeast Hospital - Addison Gilbert Campus,Addison Gilbert Hospital,298 Washington Street,Gloucester,1930,Northeastern Massachusetts,Community-High Public Payer Hospital,Beth Israel Lahey Health,(978) 283-4000,Hospital,298 washington street,northeast hospital  addison gilbert campus,16.0,2.0
+2094,Winchester Hospital,Winchester Hospital,41 Highland Avenue,Winchester,1890,Northeastern Massachusetts,Community Hospital,Beth Israel Lahey Health,(781) 729-9000,Hospital,41 highland avenue,winchester hospital,93.0,23.0
+2841,UMass Memorial Medical Center - University Campus,UMass University Campus,55 Lake Avenue North,Worcester,1655,Central Massachusetts,Academic Medical Center,UMass Memorial Health Care,(508) 334-1000,Hospital,55 lake avenue north,umass memorial medical center  university campus,40.0,5.0
+2225,Steward Holy Family Hospital - Methuen,Holy Family Hospital-Methuen,70 East Street,Methuen,1844,Northeastern Massachusetts,Community-High Public Payer Hospital,Steward Health Care,(978) 687-0151,Hospital,70 east street,steward holy family hospital  methuen,37.0,6.0
+2048,Brigham and Women's Faulkner Hospital,Brigham and Women's Faulkner Hospital,1153 Centre Street,Boston,2130,Metro Boston,Community Hospital,Mass General Brigham,(617) 983-7000,Hospital,1153 centre street,brigham and womens faulkner hospital,49.0,19.0
+2038,Lawrence Memorial Hospital of Medford,Lawrence Memorial Hospital of Medford,170 Governors Avenue,Medford,2155,Metro Boston,Community-High Public Payer Hospital,Tufts Medicine,(781) 306-6000,Hospital,170 governors avenue,lawrence memorial hospital of medford,79.0,21.0
+2316,Shriners Hospital For Children - Boston,Shriners Boston,51 Blossom Street,Boston,2114,Metro Boston,Specialty Hospital,Shriners Hospital for Children,(617) 722-3000,Hospital,51 blossom street,shriners hospital for children  boston,69.0,20.0
+2082,Beth Israel Deaconess Hospital - Plymouth,Beth Israel Plymouth,275 Sandwich Street,Plymouth,2360,Metro South,Community-High Public Payer Hospital,Beth Israel Lahey Health,(508) 746-2000,Hospital,275 sandwich street,beth israel deaconess hospital  plymouth,12.0,0.0
+2126,UMass Memorial HealthAlliance-Clinton Hospital,HealthAlliance-Clinton Hospital,201 Highland Street,Clinton,1510,Central Massachusetts,Community-High Public Payer Hospital,UMass Memorial Health Care,(978) 368-3000,Hospital,201 highland street,umass memorial healthallianceclinton hospital,33.0,6.0
+2040,Lowell General Hospital,Lowell General Hospital,295 Varnum Avenue,Lowell,1854,Northeastern Massachusetts,Community-High Public Payer Hospital,Tufts Medicine,(978) 937-6000,Hospital,295 varnum avenue,lowell general hospital,24.0,4.0
+2124,UMass Memorial Medical Center - Memorial Campus,UMass Memorial Campus,119 Belmont Street,Worcester,1605,Central Massachusetts,Academic Medical Center,UMass Memorial Health Care,(508) 334-1000,Hospital,119 belmont street,umass memorial medical center  memorial campus,41.0,5.0
+2007,Northeast Hospital - Beverly Hospital Campus,Beverly Hospital,85 Herrick Street,Beverly,1915,Northeastern Massachusetts,Community-High Public Payer Hospital,Beth Israel Lahey Health,(978) 922-3000,Hospital,85 herrick street,northeast hospital  beverly hospital campus,42.0,7.0
+2181,Baystate Wing Hospital And Medical Centers,Baystate Wing Hospital,40 Wright Street,Palmer,1069,Western Massachusetts,Community-High Public Payer Hospital,Baystate Health,(413) 283-7651,Hospital,40 wright street,baystate wing hospital and medical centers,26.0,3.0
+2227,Beth Israel Deaconess Hospital - Milton,Beth Israel Milton,199 Reedsdale Road,Milton,2186,Metro Boston,Community Hospital,Beth Israel Lahey Health,(617) 696-4600,Hospital,199 reedsdale road,beth israel deaconess hospital  milton,72.0,21.0
+2135,Cape Cod Hospital,Cape Cod Hospital,27 Park Street,Hyannis,2601,Cape and Islands,Community-High Public Payer Hospital,Cape Cod Healthcare,(508) 771-1800,Hospital,27 park street,cape cod hospital,9.0,0.0
+2168,Massachusetts General Hospital,Massachusetts General Hospital,55 Fruit Street,Boston,2114,Metro Boston,Academic Medical Center,Mass General Brigham,(617) 726-2000,Hospital,55 fruit street,massachusetts general hospital,67.0,20.0
+2299,Tufts Medical Center,Tufts Medical Center,800 Washington Street,Boston,2111,Metro Boston,Academic Medical Center,Tufts Medicine,(617) 636-5000,Hospital,800 washington street,tufts medical center,78.0,21.0
+2289,Falmouth Hospital,Falmouth Hospital,100 Ter Heun Drive,Falmouth,2540,Cape and Islands,Community-High Public Payer Hospital,Cape Cod Healthcare,(508) 548-5300,Hospital,100 ter heun drive,falmouth hospital,8.0,1.0
+2145,Holyoke Medical Center,Holyoke Medical Center,575 Beech Street,Holyoke,1040,Western Massachusetts,Community-High Public Payer Hospital,Valley Health System,(413) 534-2500,Hospital,575 beech street,holyoke medical center,35.0,5.0
+2006,Anna Jaques Hospital,Anna Jaques Hospital,25 Highland Avenue,Newburyport,1950,Northeastern Massachusetts,Community Hospital,Beth Israel Lahey Health,(978) 463-1000,Hospital,25 highland avenue,anna jaques hospital,28.0,4.0
+2307,Boston Medical Center - Menino Pavilion,BMC - Menino Pavilion,830-840 Harrison Avenue,Boston,2118,Metro Boston,Academic Medical Center,Boston Medical Center Health System,(617) 414-4128,Hospital,830840 harrison avenue,boston medical center  menino pavilion,73.0,21.0
+2298,Steward Nashoba Valley Medical Center,Nashoba Valley Medical Center,200 Groton Street,Ayer,1432,Northeastern Massachusetts,Community-High Public Payer Hospital,Steward Health Care,(978) 784-9000,Hospital,200 groton street,steward nashoba valley medical center,16.0,3.0
+2127,UMass Memorial HealthAlliance-Clinton Hospital Leominster,HealthAlliance Hospital - Leominster Campus,60 Hospital Road,Leominster,1453,Central Massachusetts,Community-High Public Payer Hospital,UMass Memorial Health Care,(978) 466-2000,Hospital,60 hospital road,umass memorial healthallianceclinton hospital leominster,30.0,6.0
+,,Pine Knoll Nursing Center,30 Watertown Street,Lexington,2421,Northeastern Massachusetts,,,,Nursing home,30 watertown street,pine knoll nursing center,,21.0
+,,Oak Hill Healthcare,76 North Street,Middleborough,2346,Metro South,,,,Nursing home,76 north street,oak hill healthcare,,4.0
+,,Benchmark Senior Living at The Commons In Lincoln,1 Harvest Circle,Lincoln,1773,Northeastern Massachusetts,,,,Nursing home,1 harvest circle,benchmark senior living at the commons in lincoln,,10.0
+,,Cape Heritage Rehabilitation & Health Care Center,37 Route 6A,Sandwich,2563,Cape and Islands,,,,Nursing home,37 route 6a,cape heritage rehabilitation  health care center,,4.0
+,,Highview of Northampton,222 River Road,Northampton,1053,Western Massachusetts,,,,Nursing home,222 river road,highview of northampton,,2.0
+,,St. Joseph Rehab & Nursing Care Center,321 Centre Street,Boston,2122,Metro Boston,,,,Nursing home,321 centre street,st joseph rehab  nursing care center,,23.0
+,,Sancta Maria Nursing Facility,799 Concord Avenue,Cambridge,2138,Metro Boston,,,,Nursing home,799 concord avenue,sancta maria nursing facility,,20.0
+,,Lafayette Rehabilitation & Skilled Nursing,25 Lafayette Street,Marblehead,1945,Northeastern Massachusetts,,,,Nursing home,25 lafayette street,lafayette rehabilitation  skilled nursing,,3.0
+,,Alliance Health at Marie Esther,720 Boston Post Road,Marlborough,1752,Metro West,,,,Nursing home,720 boston post road,alliance health at marie esther,,5.0
+,,Meadows of Central Massachusetts,111 Huntoon Memorial Highway,Leicester,1542,Central Massachusetts,,,,Nursing home,111 huntoon memorial highway,meadows of central massachusetts,,4.0
+,,Oak Knoll Healthcare Center,9 Arbetter Drive,Framingham,1701,Metro West,,,,Nursing home,9 arbetter drive,oak knoll healthcare center,,6.0
+,,Agawam South Rehab and Nursing,65 Cooper Street,Agawam,1001,Western Massachusetts,,,,Nursing home,65 cooper street,agawam south rehab and nursing,,5.0
+,,Seven Hills Pediatric Center,22 Hillside Avenue,Groton,1450,Northeastern Massachusetts,,,,Nursing home,22 hillside avenue,seven hills pediatric center,,3.0
+,,Brentwood Rehabilitation and Healthcare Center,56 Liberty Street,Danvers,1923,Northeastern Massachusetts,,,,Nursing home,56 liberty street,brentwood rehabilitation and healthcare center,,9.0
+,,Royal Braintree Nursing & Rehabilitation Center,95 Commercial Street,Braintree,2184,Metro South,,,,Nursing home,95 commercial street,royal braintree nursing  rehabilitation center,,13.0
+,,Champion Rehabilitation and Nursing Center,2 Beaumont Avenue,Brockton,2302,Metro South,,,,Nursing home,2 beaumont avenue,champion rehabilitation and nursing center,,4.0
+,,Life Care Center of the North Shore,111 Birch Street,Lynn,1902,Northeastern Massachusetts,,,,Nursing home,111 birch street,life care center of the north shore,,5.0
+,,Fall River Healthcare,1748 Highland Avenue,Fall River,2720,Southcoast,,,,Nursing home,1748 highland avenue,fall river healthcare,,4.0
+,,Kimwell Nursing and Rehabilitation,495 New Boston Road,Fall River,2720,Southcoast,,,,Nursing home,495 new boston road,kimwell nursing and rehabilitation,,4.0
+,,Southwood at Norwell Nursing Center,501 Cordwainer Drive,Norwell,2061,Metro South,,,,Nursing home,501 cordwainer drive,southwood at norwell nursing center,,6.0
+,,MASSACHUSETTS VETERANS HOME AT HOLYOKE,110 Cherry Street,HOLYOKE,1040,,,,,Nursing home,110 cherry street,massachusetts veterans home at holyoke,,6.0
+,,Commons Residence at Orchard Cove,1 Del Pond Drive,Canton,2021,Metro Boston,,,,Nursing home,1 del pond drive,commons residence at orchard cove,,9.0
+,,Pleasant Bay of Brewster Rehabilitation Center,383 South Orleans Road,Brewster,2631,Cape and Islands,,,,Nursing home,383 south orleans road,pleasant bay of brewster rehabilitation center,,1.0
+,,Whitney Place at Westborough,5 Lyman Street,Westborough,1581,Central Massachusetts,,,,Nursing home,5 lyman street,whitney place at westborough,,9.0
+,,Care One at Essex Park,265 Essex Street,Beverly,1915,Northeastern Massachusetts,,,,Nursing home,265 essex street,care one at essex park,,6.0
+,,Brandon Woods of Dartmouth,567 Dartmouth Street,Dartmouth,2748,Southcoast,,,,Nursing home,567 dartmouth street,brandon woods of dartmouth,,4.0
+,,Craneville Place Rehabilitation & Nursing Center,265 Main Street,Dalton,1226,Western Massachusetts,,,,Nursing home,265 main street,craneville place rehabilitation  nursing center,,1.0
+,,The Ellis Nursing Home,135 Ellis Avenue,Norwood,2062,Metro West,,,,Nursing home,135 ellis avenue,the ellis nursing home,,10.0
+,,Bear Mountain at Andover,80 Andover Street,Andover,1810,Northeastern Massachusetts,,,,Nursing home,80 andover street,bear mountain at andover,,10.0
+,,Bear Hill Rehabilitation & Nursing Center,11 North Street,Stoneham,2180,Northeastern Massachusetts,,,,Nursing home,11 north street,bear hill rehabilitation  nursing center,,22.0
+,,Brookhaven at Lexington,1010 Waltham Street,Lexington,2421,Northeastern Massachusetts,,,,Nursing home,1010 waltham street,brookhaven at lexington,,19.0
+,,Mill Town Health and Rehabilitation,22 Maple Street,Amesbury,1913,Northeastern Massachusetts,,,,Nursing home,22 maple street,mill town health and rehabilitation,,4.0
+,,St. Patrick's Manor,863 Central Street,Framingham,1701,Metro West,,,,Nursing home,863 central street,st patricks manor,,7.0
+,,Braintree Manor Healthcare,1102 Washington Street,Braintree,2184,Metro South,,,,Nursing home,1102 washington street,braintree manor healthcare,,12.0
+,,Wedgemere Healthcare,146 Dean Street,Taunton,2780,Metro South,,,,Nursing home,146 dean street,wedgemere healthcare,,5.0
+,,Linda Manor Extended Care Facility,349 Haydenville Road,Northampton,1053,Western Massachusetts,,,,Nursing home,349 haydenville road,linda manor extended care facility,,2.0
+,,WILLIMANSETT CENTER EAST,11 ST ANTHONY STREET,CHICOPEE,1013,,,,,Nursing home,11 st anthony street,willimansett center east,,6.0
+,,Mary's Meadow at Providence Place,12 Gamelin Street,Holyoke,1040,Western Massachusetts,,,,Nursing home,12 gamelin street,marys meadow at providence place,,6.0
+,,Hathorne Hill,15 Kirkbride Drive,Danvers,1923,Northeastern Massachusetts,,,,Nursing home,15 kirkbride drive,hathorne hill,,11.0
+,,Agawam West Rehab and Nursing,61 Cooper Street,Agawam,1001,Western Massachusetts,,,,Nursing home,61 cooper street,agawam west rehab and nursing,,5.0
+,,Coleman House,112 West Main Street,Northborough,1532,Central Massachusetts,,,,Nursing home,112 west main street,coleman house,,7.0
+,,AdviniaCare East Bridgewater,66 Central Street,East Bridgewater,2333,Metro South,,,,Nursing home,66 central street,adviniacare east bridgewater,,4.0
+,,Bourne Manor Extended Care Facility,146 MacArthur Boulevard,Bourne,2532,Cape and Islands,,,,Nursing home,146 macarthur boulevard,bourne manor extended care facility,,3.0
+,,Care One at Weymouth,64 Performance Drive,Weymouth,2189,Metro South,,,,Nursing home,64 performance drive,care one at weymouth,,9.0
+,,Christopher House of Worcester,10 Mary Scano Drive,Worcester,1605,Central Massachusetts,,,,Nursing home,10 mary scano drive,christopher house of worcester,,6.0
+,,Plymouth Harborside Healthcare,19 Obery Street,Plymouth,2360,Metro South,,,,Nursing home,19 obery street,plymouth harborside healthcare,,1.0
+,,Carlyle House,342 Winter Street,Framingham,1702,Metro West,,,,Nursing home,342 winter street,carlyle house,,5.0
+,,Seacoast Nursing & Rehabilitation Center,292 Washington Street,Gloucester,1930,Northeastern Massachusetts,,,,Nursing home,292 washington street,seacoast nursing  rehabilitation center,,3.0
+,,Benjamin Healthcare Center,120 Fisher Avenue,Boston,2120,Metro Boston,,,,Nursing home,120 fisher avenue,benjamin healthcare center,,20.0
+,,Courtyard Nursing Care Center,200 Governors Avenue,Medford,2155,Metro Boston,,,,Nursing home,200 governors avenue,courtyard nursing care center,,22.0
+,,Madonna Manor Nursing Home,85 North Washington Street,North Attleboro,2760,Metro West,,,,Nursing home,85 north washington street,madonna manor nursing home,,3.0
+,,Greenwood Nursing & Rehabilitation Center,90 Greenwood Street,Wakefield,1880,Metro Boston,,,,Nursing home,90 greenwood street,greenwood nursing  rehabilitation center,,14.0
+,,Norwood Healthcare,460 Washington Street,Norwood,2062,Metro West,,,,Nursing home,460 washington street,norwood healthcare,,10.0
+,,Bay Path at Duxbury Nursing & Rehabilitation Center,308 Kingstown Way,Duxbury,2332,Metro South,,,,Nursing home,308 kingstown way,bay path at duxbury nursing  rehabilitation center,,2.0
+,,Alliance Health at Braintree,175 Grove Street,Braintree,2184,Metro South,,,,Nursing home,175 grove street,alliance health at braintree,,10.0
+,,Our Island Home,9 East Creek Road,Nantucket,2554,Cape and Islands,,,,Nursing home,9 east creek road,our island home,,1.0
+,,Briarwood Rehabilitation & Healthcare Center,150 Lincoln Street,Needham,2492,Metro Boston,,,,Nursing home,150 lincoln street,briarwood rehabilitation  healthcare center,,14.0
+,,Care One at New Bedford,221 Fitzgerald Drive,New Bedford,2745,Southcoast,,,,Nursing home,221 fitzgerald drive,care one at new bedford,,5.0
+,,Salem Rehab Center,7 Loring Hills Avenue,Salem,1970,Northeastern Massachusetts,,,,Nursing home,7 loring hills avenue,salem rehab center,,4.0
+,,Whitney Place at Northborough,238 West Main Street,Northborough,1532,Central Massachusetts,,,,Nursing home,238 west main street,whitney place at northborough,,7.0
+,,Oceanside Rehabilitation and Nursing Center,44 South Street,Rockport,1966,Northeastern Massachusetts,,,,Nursing home,44 south street,oceanside rehabilitation and nursing center,,2.0
+,,Reservoir Center for Health & Rehabilitation,400 Bolton Street,Marlborough,1752,Metro West,,,,Nursing home,400 bolton street,reservoir center for health  rehabilitation,,7.0
+,,Elizabeth Seton Residence,125 Oakland Street,Wellesley,2481,Metro Boston,,,,Nursing home,125 oakland street,elizabeth seton residence,,22.0
+,,Blaire House of Tewksbury,10 Erlin Terrace,Tewksbury,1876,Northeastern Massachusetts,,,,Nursing home,10 erlin terrace,blaire house of tewksbury,,7.0
+,,The Residence at AdviniaCare Northbridge,85 Beaumont Drive,Northbridge,1534,Central Massachusetts,,,,Nursing home,85 beaumont drive,the residence at adviniacare northbridge,,4.0
+,,Andover Forest Post Acute Care Center,1801 Turnpike Street,North Andover,1845,Northeastern Massachusetts,,,,Nursing home,1801 turnpike street,andover forest post acute care center,,11.0
+,,Nevins Nursing & Rehabilitation Center,10 Ingalls Court,Methuen,1844,Northeastern Massachusetts,,,,Nursing home,10 ingalls court,nevins nursing  rehabilitation center,,9.0
+,,Life Care Center of Leominster,370 West Street,Leominster,1453,Central Massachusetts,,,,Nursing home,370 west street,life care center of leominster,,6.0
+,,The Massachusetts Veterans Home at Chelsea,91 Crest Avenue,Chelsea,2150,Metro Boston,,,,Nursing home,91 crest avenue,the massachusetts veterans home at chelsea,,21.0
+,,South Cove Manor at quincy Point Nursing & Rehabilitation Center,288 Washington Street,Quincy,2169,Metro South,,,,Nursing home,288 washington street,south cove manor at quincy point nursing  rehabilitation center,,10.0
+,,Casa de Ramana Rehabilitation Center,485 Franklin Street,Framingham,1702,Metro West,,,,Nursing home,485 franklin street,casa de ramana rehabilitation center,,6.0
+,,BEAUMONT REHAB & SKILLED NURS CTR,3 LYMAN STREET,WESTBOROUGH,1581,,,,,Nursing home,3 lyman street,beaumont rehab  skilled nurs ctr,,9.0
+,,Blueberry Hill Rehabilitation & Healthcare Center,75 Brimbal Avenue,Beverly,1915,Northeastern Massachusetts,,,,Nursing home,75 brimbal avenue,blueberry hill rehabilitation  healthcare center,,7.0
+,,Abbott Skilled Nursing and Rehabilitation Center,28 Essex Street,Lynn,1902,Northeastern Massachusetts,,,,Nursing home,28 essex street,abbott skilled nursing and rehabilitation center,,5.0
+,,Country Gardens Health & Rehabilitation Center,2045 Grand Army Highway,Swansea,2777,Southcoast,,,,Nursing home,2045 grand army highway,country gardens health  rehabilitation center,,3.0
+,,Belvidere Healthcare Center,500 Wentworth Avenue,Lowell,1852,Northeastern Massachusetts,,,,Nursing home,500 wentworth avenue,belvidere healthcare center,,10.0
+,,Keystone Center,44 Keystone Drive,Leominster,1453,Central Massachusetts,,,,Nursing home,44 keystone drive,keystone center,,7.0
+,,Lanessa Extended Care,751 School Street,Webster,1570,Central Massachusetts,,,,Nursing home,751 school street,lanessa extended care,,4.0
+,,Cape Regency Rehabilitation & Health Care Center,120 South Main Street,Barnstable,2632,Cape and Islands,,,,Nursing home,120 south main street,cape regency rehabilitation  health care center,,1.0
+,,Bear Mountain at Worcester,59 Acton Street,Worcester,1604,Central Massachusetts,,,,Nursing home,59 acton street,bear mountain at worcester,,6.0
+,,Center For Extended Care at Amherst,150 University Drive,Amherst,1002,Western Massachusetts,,,,Nursing home,150 university drive,center for extended care at amherst,,2.0
+,,Royal Cape Cod Nursing & Rehabilitation Center,8 Lewis Point Road,Bourne,2532,Cape and Islands,,,,Nursing home,8 lewis point road,royal cape cod nursing  rehabilitation center,,3.0
+,,Care One at Randolph,49 Thomas Patten Drive,Randolph,2368,Metro South,,,,Nursing home,49 thomas patten drive,care one at randolph,,12.0
+,,"Royal Nursing Center, LLC",359 Jones Road,Falmouth,2540,Cape and Islands,,,,Nursing home,359 jones road,royal nursing center llc,,1.0
+,,Thomas Upham House,519 Main Street,Medfield,2052,Metro West,,,,Nursing home,519 main street,thomas upham house,,5.0
+,,Melrose Healthcare,40 Martin Street,Melrose,2176,Metro Boston,,,,Nursing home,40 martin street,melrose healthcare,,19.0
+,,Beaumont Rehab & Skilled Nursing Natick,"3 Vision Drive, 2nd Floor",Natick,1760,Metro West,,,,Nursing home,3 vision drive 2nd floor,beaumont rehab  skilled nursing natick,,9.0
+,,Formost at Sharon LLC,259 Norwood Street,Sharon,2067,Metro West,,,,Nursing home,259 norwood street,formost at sharon llc,,9.0
+,,Worcester Rehabilitation & Health Care Center,119 Providence Street,Worcester,1604,Central Massachusetts,,,,Nursing home,119 providence street,worcester rehabilitation  health care center,,6.0
+,,Care One at Peabody,199 Andover Street,Peabody,1960,Northeastern Massachusetts,,,,Nursing home,199 andover street,care one at peabody,,10.0
+,,St. Joseph Manor Health Care Inc.,215 Thatcher Street,Brockton,2302,Metro South,,,,Nursing home,215 thatcher street,st joseph manor health care inc,,4.0
+,,Lakeview House Skilled Nursing & Residential Care Facility,87 Shattuck Street,Haverhill,1830,Northeastern Massachusetts,,,,Nursing home,87 shattuck street,lakeview house skilled nursing  residential care facility,,5.0
+,,Continuing Care at Brooksby Village,400 Brooksby Village Drive,Peabody,1960,Northeastern Massachusetts,,,,Nursing home,400 brooksby village drive,continuing care at brooksby village,,10.0
+,,Sudbury Pines Extended Care,642 Boston Post Road,Sudbury,1776,Northeastern Massachusetts,,,,Nursing home,642 boston post road,sudbury pines extended care,,5.0
+,,West Roxbury Health & Rehabilitation Center,5060 Washington Street,Boston,2132,Metro Boston,,,,Nursing home,5060 washington street,west roxbury health  rehabilitation center,,18.0
+,,Brookside Rehabilitation and Healthcare Center,11 Pontiac Avenue,Webster,1570,Central Massachusetts,,,,Nursing home,11 pontiac avenue,brookside rehabilitation and healthcare center,,4.0
+,,Park Avenue Health Center,146 Park Avenue,Arlington,2476,Northeastern Massachusetts,,,,Nursing home,146 park avenue,park avenue health center,,19.0
+,,Royal Meadow View Center,134 North Street,North Reading,1864,Northeastern Massachusetts,,,,Nursing home,134 north street,royal meadow view center,,10.0
+,,Wilmington Rehab Center,90 West Street,Wilmington,1887,Northeastern Massachusetts,,,,Nursing home,90 west street,wilmington rehab center,,22.0
+,,Brandon Woods of New Bedford,397 County Street,New Bedford,2740,Southcoast,,,,Nursing home,397 county street,brandon woods of new bedford,,4.0
+,,Life Care Center of Raynham,546 South Street,Raynham,2767,Metro South,,,,Nursing home,546 south street,life care center of raynham,,8.0
+,,Walpole Healthcare,160 Main Street,Walpole,2081,Metro West,,,,Nursing home,160 main street,walpole healthcare,,7.0
+,,JML Care Center,184 Ter Heun Drive,Falmouth,2540,Cape and Islands,,,,Nursing home,184 ter heun drive,jml care center,,1.0
+,,River Terrace Rehabilitation and Healthcare Center,1675 North Main Street,Lancaster,1523,Central Massachusetts,,,,Nursing home,1675 north main street,river terrace rehabilitation and healthcare center,,8.0
+,,Queen Anne Nursing Home,50 Recreation Park Drive,Hingham,2043,Metro South,,,,Nursing home,50 recreation park drive,queen anne nursing home,,9.0
+,,Marlborough Hills Rehabiltiation & Health Care Center,121 Northboro Road East,Marlborough,1752,Metro West,,,,Nursing home,121 northboro road east,marlborough hills rehabiltiation  health care center,,7.0
+,,Blaire House of Worcester,116 Houghton Street,Worcester,1604,Central Massachusetts,,,,Nursing home,116 houghton street,blaire house of worcester,,6.0
+,,Bridgewater Nursing Home,16 Pleasant Street,Bridgewater,2324,Metro South,,,,Nursing home,16 pleasant street,bridgewater nursing home,,5.0
+,,Hannah B. G. Shaw Home,"299 Wareham Street, P.O. Box 390",Middleborough,2346,Metro South,,,,Nursing home,299 wareham street po box 390,hannah b g shaw home,,4.0
+,,Tremont Health Care Center,605 Main Street,Wareham,2571,Southcoast,,,,Nursing home,605 main street,tremont health care center,,3.0
+,,The Hermitage Healthcare,383 Mills Street,Worcester,1602,Central Massachusetts,,,,Nursing home,383 mills street,the hermitage healthcare,,3.0
+,,Fitchburg Rehabilitation and Nursing Center,94 Summer Street,Fitchburg,1420,Central Massachusetts,,,,Nursing home,94 summer street,fitchburg rehabilitation and nursing center,,4.0
+,,Julian J. Levitt Family Nursing Home,770 Converse Street,Longmeadow,1106,Western Massachusetts,,,,Nursing home,770 converse street,julian j levitt family nursing home,,4.0
+,,ALLIANCE HEALTH AT DOOLITTLE,16 BIRD STREET,FOXBOROUGH,2035,,,,,Nursing home,16 bird street,alliance health at doolittle,,7.0
+,,Bear Mountain at West Springfield,42 Prospect Avenue,West Springfield,1089,Western Massachusetts,,,,Nursing home,42 prospect avenue,bear mountain at west springfield,,6.0
+,,AdviniaCare Newburyport,180 Low Street,Newburyport,1950,Northeastern Massachusetts,,,,Nursing home,180 low street,adviniacare newburyport,,5.0
+,,"Advocate Healthcare of East Boston, LLC",111 Orient Avenue,Boston,2128,Metro Boston,,,,Nursing home,111 orient avenue,advocate healthcare of east boston llc,,20.0
+,,Jesmond Nursing Home,271 Nahant Road,Nahant,1908,Northeastern Massachusetts,,,,Nursing home,271 nahant road,jesmond nursing home,,3.0
+,,Life Care Center of Nashoba Valley,191 Foster Street,Littleton,1460,Northeastern Massachusetts,,,,Nursing home,191 foster street,life care center of nashoba valley,,8.0
+,,Medford Rehabilitation and Nursing Center,300 Winthrop Street,Medford,2155,Metro Boston,,,,Nursing home,300 winthrop street,medford rehabilitation and nursing center,,23.0
+,,Holden Rehabilitation & Nursing Center,32 Mayo Drive,Holden,1520,Central Massachusetts,,,,Nursing home,32 mayo drive,holden rehabilitation  nursing center,,6.0
+,,Life Care Center of Plymouth,94 Obery Street,Plymouth,2360,Metro South,,,,Nursing home,94 obery street,life care center of plymouth,,2.0
+,,Newfield House Convalescent Home,19 Newfield Street,Plymouth,2360,Metro South,,,,Nursing home,19 newfield street,newfield house convalescent home,,1.0
+,,Williamstown Commons Nursing & Rehabilitation,25 Adams Road,Williamstown,1267,Western Massachusetts,,,,Nursing home,25 adams road,williamstown commons nursing  rehabilitation,,1.0
+,,Wakefield Center,One Bathol Street,Wakefield,1880,Metro Boston,,,,Nursing home,one bathol street,wakefield center,,14.0
+,,Prescott House,140 Prescott Street,North Andover,1845,Northeastern Massachusetts,,,,Nursing home,140 prescott street,prescott house,,7.0
+,,Twin Oaks Center,63 Locust Street,Danvers,1923,Northeastern Massachusetts,,,,Nursing home,63 locust street,twin oaks center,,10.0
+,,Milford Center,10 Veterans Memorial Drive,Milford,1757,Metro West,,,,Nursing home,10 veterans memorial drive,milford center,,3.0
+,,Charlwell House Health and Rehabilitation,305 Walpole Street,Norwood,2062,Metro West,,,,Nursing home,305 walpole street,charlwell house health and rehabilitation,,9.0
+,,"New England Homes for the Deaf, Inc.",154 Water Street,Danvers,1923,Northeastern Massachusetts,,,,Nursing home,154 water street,new england homes for the deaf inc,,8.0
+,,Palm Skilled Nursing Care and Center for Rehab Excellence,40 Parkhurst Road,Chelmsford,1824,Northeastern Massachusetts,,,,Nursing home,40 parkhurst road,palm skilled nursing care and center for rehab excellence,,8.0
+,,Lighthouse Nursing Care Center,204 Proctor Avenue,Revere,2151,Metro Boston,,,,Nursing home,204 proctor avenue,lighthouse nursing care center,,19.0
+,,Oakdale Rehabilitation & Skilled Nursing Center,76 North Main Street,West Boylston,1583,Central Massachusetts,,,,Nursing home,76 north main street,oakdale rehabilitation  skilled nursing center,,6.0
+,,Mission Care at Holyoke,35 Holy Family Road,Holyoke,1040,Western Massachusetts,,,,Nursing home,35 holy family road,mission care at holyoke,,6.0
+,,Windsor Nursing & Retirement Home,265 North Main Street,Yarmouth,2664,Cape and Islands,,,,Nursing home,265 north main street,windsor nursing  retirement home,,1.0
+,,Sacred Heart Nursing Home,359 Summer Street,New Bedford,2740,Southcoast,,,,Nursing home,359 summer street,sacred heart nursing home,,4.0
+,,Renaissance Manor on Cabot,279 Cabot Street,Holyoke,1040,Western Massachusetts,,,,Nursing home,279 cabot street,renaissance manor on cabot,,6.0
+,,New England Sinai Hospital Transitional Care Unit,150 York Street,Stoughton,2072,Metro South,,,,Nursing home,150 york street,new england sinai hospital transitional care unit,,8.0
+,,Cambridge Rehabilitation & Nursing Center,8 Dana Street,Cambridge,2138,Metro Boston,,,,Nursing home,8 dana street,cambridge rehabilitation  nursing center,,22.0
+,,Hancock Park Rehabilitation and Nursing Center,164 Parkingway,Quincy,2169,Metro South,,,,Nursing home,164 parkingway,hancock park rehabilitation and nursing center,,16.0
+,,Maplewood Center,6 Morrill Place,Amesbury,1913,Northeastern Massachusetts,,,,Nursing home,6 morrill place,maplewood center,,4.0
+,,Devereux Skilled Nursing & Rehabilitation Center,39 Lafayette Street,Marblehead,1945,Northeastern Massachusetts,,,,Nursing home,39 lafayette street,devereux skilled nursing  rehabilitation center,,3.0
+,,Carleton-Willard Village Retirement and Nursing Center,100 Old Billerica Road,Bedford,1730,Northeastern Massachusetts,,,,Nursing home,100 old billerica road,carletonwillard village retirement and nursing center,,12.0
+,,"Boston Home, Inc.",2049-2061 Dorchester Avenue,Boston,2124,Metro Boston,,,,Nursing home,20492061 dorchester avenue,boston home inc,,22.0
+,,Alliance Health at Maples,90 Taunton Street,Wrentham,2093,Metro West,,,,Nursing home,90 taunton street,alliance health at maples,,4.0
+,,Shrewsbury Nursing & Rehabilitation Center,40 Julio Drive,Shrewsbury,1545,Central Massachusetts,,,,Nursing home,40 julio drive,shrewsbury nursing  rehabilitation center,,6.0
+,,Somerset Ridge Center,455 Brayton Avenue,Somerset,2726,Southcoast,,,,Nursing home,455 brayton avenue,somerset ridge center,,4.0
+,,Lasell House,120 Seminary Avenue,Newton,2466,Metro Boston,,,,Nursing home,120 seminary avenue,lasell house,,26.0
+,,Saugus Center,266 Lincoln Avenue,Saugus,1906,Metro Boston,,,,Nursing home,266 lincoln avenue,saugus center,,18.0
+,,The Elmhurst Healthcare,743 Main Street,Melrose,2176,Metro Boston,,,,Nursing home,743 main street,the elmhurst healthcare,,14.0
+,,Knollwood Nursing Center,87 Briarwood Circle,Worcester,1606,Central Massachusetts,,,,Nursing home,87 briarwood circle,knollwood nursing center,,6.0
+,,North End Rehabilitation And Healthcare Center,70 Fulton Street,Boston,2109,Metro Boston,,,,Nursing home,70 fulton street,north end rehabilitation and healthcare center,,23.0
+,,Southpointe Rehab Center,100 Amity Street,Fall River,2721,Southcoast,,,,Nursing home,100 amity street,southpointe rehab center,,3.0
+,,CHAPIN CENTER,200 KENDALL STREET,SPRINGFIELD,1104,,,,,Nursing home,200 kendall street,chapin center,,6.0
+,,Westfield Gardens Nursing and Rehabilitation,37 Feeding Hills Road,Westfield,1085,Western Massachusetts,,,,Nursing home,37 feeding hills road,westfield gardens nursing and rehabilitation,,4.0
+,,West Side House LTC Facility,35 Fruit Street,Worcester,1609,Central Massachusetts,,,,Nursing home,35 fruit street,west side house ltc facility,,6.0
+,,Bear Mountain at Sudbury,136 Boston Post Road,Sudbury,1776,Northeastern Massachusetts,,,,Nursing home,136 boston post road,bear mountain at sudbury,,8.0
+,,The Oaks,4525 Acushnet Avenue,New Bedford,2745,Southcoast,,,,Nursing home,4525 acushnet avenue,the oaks,,5.0
+,,Wachusett Manor,32 Hospital Hill Road,Gardner,1440,Central Massachusetts,,,,Nursing home,32 hospital hill road,wachusett manor,,3.0
+,,WILLIMANSETT CENTER WEST,546 CHICOPEE STREET,CHICOPEE,1013,,,,,Nursing home,546 chicopee street,willimansett center west,,6.0
+,,Royal Wayland Nursing & Rehabilitation Center,188 Commonwealth Road,Wayland,1778,Metro West,,,,Nursing home,188 commonwealth road,royal wayland nursing  rehabilitation center,,13.0
+,,Life Care Center of West Bridgewater,765 West Center Street,West Bridgewater,2379,Metro South,,,,Nursing home,765 west center street,life care center of west bridgewater,,11.0
+,,Mary Ann Morse Nursing & Rehabilitation,45 Union Street,Natick,1760,Metro West,,,,Nursing home,45 union street,mary ann morse nursing  rehabilitation,,5.0
+,,Gardner Rehabilitation and Nursing Center,59 Eastwood Circle,Gardner,1440,Central Massachusetts,,,,Nursing home,59 eastwood circle,gardner rehabilitation and nursing center,,3.0
+,,SUNNY ACRES SKILLED NURSING AND REHABILITATION C,254 BILLERICA ROAD,CHELMSFORD,1824,,,,,Nursing home,254 billerica road,sunny acres skilled nursing and rehabilitation c,,10.0
+,,Recuperative Services Unit - Hebrew Rehabilitation Center,1200 Centre Street,Boston,2131,Metro Boston,,,,Nursing home,1200 centre street,recuperative services unit  hebrew rehabilitation center,,20.0
+,,Baker-Katz Skilled Nursing & Rehabilitation Center,194 Boardman Street,Haverhill,1830,Northeastern Massachusetts,,,,Nursing home,194 boardman street,bakerkatz skilled nursing  rehabilitation center,,5.0
+,,Woburn Rehabilitation and Nursing Center,18 Frances Street,Woburn,1801,Northeastern Massachusetts,,,,Nursing home,18 frances street,woburn rehabilitation and nursing center,,19.0
+,,Notre Dame Long Term Care Center,559 Plantation Street,Worcester,1605,Central Massachusetts,,,,Nursing home,559 plantation street,notre dame long term care center,,6.0
+,,Our Lady's Haven of Fairhaven Inc.,71 Center Street,Fairhaven,2719,Southcoast,,,,Nursing home,71 center street,our ladys haven of fairhaven inc,,4.0
+,,Care One at Millbury,312 Millbury Avenue,Millbury,1527,Central Massachusetts,,,,Nursing home,312 millbury avenue,care one at millbury,,6.0
+,,Fairview Commons Nursing & Rehabilitation Center,151 Christian Hill Road,Great Barrington,1230,Western Massachusetts,,,,Nursing home,151 christian hill road,fairview commons nursing  rehabilitation center,,1.0
+,,Webster Manor Rehabilitation & Health Care Center,745 School Street,Webster,1570,Central Massachusetts,,,,Nursing home,745 school street,webster manor rehabilitation  health care center,,4.0
+,,St. Mary Health Care Center,39 Queen Street,Worcester,1610,Central Massachusetts,,,,Nursing home,39 queen street,st mary health care center,,5.0
+,,Baypointe Rehab Center,50 Christy Place,Brockton,2401,Metro South,,,,Nursing home,50 christy place,baypointe rehab center,,9.0
+,,Leonard Florence Center for Living,165 Captain's Row,Chelsea,2150,Metro Boston,,,,Nursing home,165 captains row,leonard florence center for living,,21.0
+,,Hannah Duston Healthcare Center,126 Monument Street,Haverhill,1832,Northeastern Massachusetts,,,,Nursing home,126 monument street,hannah duston healthcare center,,6.0
+,,Newbridge on the Charles Skilled Nursing Facility,7000 Great Meadow Road,Dedham,2026,Metro Boston,,,,Nursing home,7000 great meadow road,newbridge on the charles skilled nursing facility,,19.0
+,,Linden Ponds,400 Linden Ponds Way,Hingham,2043,Metro South,,,,Nursing home,400 linden ponds way,linden ponds,,5.0
+,,Royal Megansett Nursing & Rehabilitation,209 County Road,Falmouth,2556,Cape and Islands,,,,Nursing home,209 county road,royal megansett nursing  rehabilitation,,2.0
+,,Webster Park Rehabilitation and Healthcare Center,56 Webster Street,Rockland,2370,Metro South,,,,Nursing home,56 webster street,webster park rehabilitation and healthcare center,,5.0
+,,Life Care Center of Wilbraham,2399 Boston Road,Wilbraham,1095,Western Massachusetts,,,,Nursing home,2399 boston road,life care center of wilbraham,,4.0
+,,Odd Fellows Home of Massachusetts,104 Randolph Road,Worcester,1606,Central Massachusetts,,,,Nursing home,104 randolph road,odd fellows home of massachusetts,,6.0
+,,Blue Hills Health and Rehabilitation Center,1044 Park Street,Stoughton,2072,Metro South,,,,Nursing home,1044 park street,blue hills health and rehabilitation center,,9.0
+,,Westfield Center,60 East Silver Street,Westfield,1085,Western Massachusetts,,,,Nursing home,60 east silver street,westfield center,,4.0
+,,OVERLOOK MASONIC HEALTH CENTER,"88 MASONIC HOME ROAD, BOX 1000",CHARLTON,1507,,,,,Nursing home,88 masonic home road box 1000,overlook masonic health center,,4.0
+,,Hunt Nursing & Rehabilitation Center,90 Lindall Street,Danvers,1923,Northeastern Massachusetts,,,,Nursing home,90 lindall street,hunt nursing  rehabilitation center,,10.0
+,,Port Healthcare Center,6 Hale Street,Newburyport,1950,Northeastern Massachusetts,,,,Nursing home,6 hale street,port healthcare center,,5.0
+,,Spaulding Nursing & Therapy Center - Brighton,100 North Beacon Street,Boston,2109,Metro Boston,,,,Nursing home,100 north beacon street,spaulding nursing  therapy center  brighton,,21.0
+,,Bethany Skilled Nursing Facility,97 Bethany Road,Framingham,1701,Metro West,,,,Nursing home,97 bethany road,bethany skilled nursing facility,,4.0
+,,Pope Nursing Home,140 Webb Street,Weymouth,2188,Metro South,,,,Nursing home,140 webb street,pope nursing home,,9.0
+,,Catholic Memorial Home,2446 Highland Avenue,Fall River,2720,Southcoast,,,,Nursing home,2446 highland avenue,catholic memorial home,,5.0
+,,Sixteen Acres Healthcare Center,215 Bicentennial Highway,Springfield,1118,Western Massachusetts,,,,Nursing home,215 bicentennial highway,sixteen acres healthcare center,,4.0
+,,Clifton Rehabilitation Nursing Center,500 Wilbur Avenue,Somerset,2725,Southcoast,,,,Nursing home,500 wilbur avenue,clifton rehabilitation nursing center,,4.0
+,,Blaire House of Milford,20 Claflin Street,Milford,1757,Metro West,,,,Nursing home,20 claflin street,blaire house of milford,,2.0
+,,Hathaway Manor Extended Care,863 Hathaway Road,New Bedford,2740,Southcoast,,,,Nursing home,863 hathaway road,hathaway manor extended care,,4.0
+,,RegalCare at Taunton,68 Dean Street,Taunton,2780,Metro South,,,,Nursing home,68 dean street,regalcare at taunton,,5.0
+,,Southeast Health Care Center,184 Lincoln Street,Easton,2356,Metro South,,,,Nursing home,184 lincoln street,southeast health care center,,5.0
+,,D'Youville Care for Advanced Therapy,1071 Varnum Avenue,Lowell,1854,Northeastern Massachusetts,,,,Nursing home,1071 varnum avenue,dyouville care for advanced therapy,,3.0
+,,Palmer Healthcare Center,250 Shearer Street,Palmer,1069,Western Massachusetts,,,,Nursing home,250 shearer street,palmer healthcare center,,5.0
+,,North Adams Commons Nursing & Rehabilitation Center,175 Franklin Street,North Adams,1247,Western Massachusetts,,,,Nursing home,175 franklin street,north adams commons nursing  rehabilitation center,,1.0
+,,Royal Norwell Nursing & Rehabilitation Center,329 Washington Street,Norwell,2061,Metro South,,,,Nursing home,329 washington street,royal norwell nursing  rehabilitation center,,6.0
+,,Timothy Daniels House,84 Elm Street,Holliston,1746,Metro West,,,,Nursing home,84 elm street,timothy daniels house,,5.0
+,,Nemasket Healthcare Center,314 Marion Road,Middleborough,2346,Metro South,,,,Nursing home,314 marion road,nemasket healthcare center,,1.0
+,,Care One at Northampton,548 Elm Street,Northampton,1060,Western Massachusetts,,,,Nursing home,548 elm street,care one at northampton,,5.0
+,,Life Care Center of Stoneham,25 Woodland Road,Stoneham,2180,Northeastern Massachusetts,,,,Nursing home,25 woodland road,life care center of stoneham,,21.0
+,,RegalCare at Greenfield,95 Laurel Street,Greenfield,1302,Western Massachusetts,,,,Nursing home,95 laurel street,regalcare at greenfield,,2.0
+,,Copley at Stoughton Nursing Care Center,380 Sumner Street,Stoughton,2072,Metro South,,,,Nursing home,380 sumner street,copley at stoughton nursing care center,,8.0
+,,Skilled Nursing Facility at North Hill,865 Central Avenue,Needham,2492,Metro Boston,,,,Nursing home,865 central avenue,skilled nursing facility at north hill,,18.0
+,,Eastpointe Rehabilitation Center,255 Central Avenue,Chelsea,2150,Metro Boston,,,,Nursing home,255 central avenue,eastpointe rehabilitation center,,22.0
+,,Oxford Rehabilitation & Health Care Center,689 Main Street,Haverhill,1830,Northeastern Massachusetts,,,,Nursing home,689 main street,oxford rehabilitation  health care center,,5.0
+,,Glen Ridge Nursing Care Center,120 Murray Street,Medford,2155,Metro Boston,,,,Nursing home,120 murray street,glen ridge nursing care center,,20.0
+,,Riverbend of South Natick,34 South Lincoln Street,Natick,1760,Metro West,,,,Nursing home,34 south lincoln street,riverbend of south natick,,6.0
+,,Jewish Healthcare Center,629 Salisbury Street,Worcester,1609,Central Massachusetts,,,,Nursing home,629 salisbury street,jewish healthcare center,,6.0
+,,Garden Place Healthcare,193-195 Pleasant Street,Attleboro,2703,Metro West,,,,Nursing home,193195 pleasant street,garden place healthcare,,3.0
+,,The Woodlands Inn at Edgewood,575 Osgood Street,North Andover,1845,Northeastern Massachusetts,,,,Nursing home,575 osgood street,the woodlands inn at edgewood,,6.0
+,,Ledgewood Rehabilitation & Skilled Nursing Center,87 Herrick Street,Beverly,1915,Northeastern Massachusetts,,,,Nursing home,87 herrick street,ledgewood rehabilitation  skilled nursing center,,6.0
+,,Plymouth Rehabilitation & Health Care Center,123 South Street,Plymouth,2360,Metro South,,,,Nursing home,123 south street,plymouth rehabilitation  health care center,,1.0
+,,Hillcrest Commons Nursing & Rehabilitation Center,169 Valentine Road,Pittsfield,1201,Western Massachusetts,,,,Nursing home,169 valentine road,hillcrest commons nursing  rehabilitation center,,1.0
+,,The Highlands,335 Nichols Road,Fitchburg,1420,Central Massachusetts,,,,Nursing home,335 nichols road,the highlands,,3.0
+,,GOVERNORS CENTER,66 BROAD STREET,WESTFIELD,185,,,,,Nursing home,66 broad street,governors center,,4.0
+,,Vantage at Wilbraham LLC,9 Maple Street,Wilbraham,1095,Western Massachusetts,,,,Nursing home,9 maple street,vantage at wilbraham llc,,4.0
+,,Whittier Bradford Transitional Care Unit,145 Ward Hill Avenue,Haverhill,1835,Northeastern Massachusetts,,,,Nursing home,145 ward hill avenue,whittier bradford transitional care unit,,6.0
+,,Jeffrey & Susan Brudnick Center for Living,240 Lynnfield Street,Peabody,1960,Northeastern Massachusetts,,,,Nursing home,240 lynnfield street,jeffrey  susan brudnick center for living,,12.0
+,,Care One at Concord,57 Old Road to Nine Acre Corner,Concord,1742,Northeastern Massachusetts,,,,Nursing home,57 old road to nine acre corner,care one at concord,,7.0
+,,Care One at Redstone,135 Benton Drive,East Longmeadow,1028,Western Massachusetts,,,,Nursing home,135 benton drive,care one at redstone,,3.0
+,,Alliance Health at Rosewood,22 Johnson Street,Peabody,1960,Northeastern Massachusetts,,,,Nursing home,22 johnson street,alliance health at rosewood,,14.0
+,,Royal of Cotuit,161 Falmouth Road,Mashpee,2649,Cape and Islands,,,,Nursing home,161 falmouth road,royal of cotuit,,2.0
+,,South Dennis Healthcare,1 Love Lane,South Dennis,2660,Cape and Islands,,,,Nursing home,1 love lane,south dennis healthcare,,1.0
+,,East Longmeadow Skilled Nursing Center,305 Maple Street,East Longmeadow,1028,Western Massachusetts,,,,Nursing home,305 maple street,east longmeadow skilled nursing center,,3.0
+,,Blackstone Valley Health and Rehabilitation,447 Hill Street,Northbridge,1588,Central Massachusetts,,,,Nursing home,447 hill street,blackstone valley health and rehabilitation,,4.0
+,,Care One at Lexington,178 Lowell Street,Lexington,2420,Northeastern Massachusetts,,,,Nursing home,178 lowell street,care one at lexington,,17.0
+,,Elaine Center at Hadley,20 North Maple Street,Hadley,1035,Western Massachusetts,,,,Nursing home,20 north maple street,elaine center at hadley,,2.0
+,,Armenian Nursing & Rehabilitation Center,431 Pond Street,Boston,2130,Metro Boston,,,,Nursing home,431 pond street,armenian nursing  rehabilitation center,,20.0
+,,Wingate at Silver Lake,17 Chipman Way,Kingston,2364,Metro South,,,,Nursing home,17 chipman way,wingate at silver lake,,2.0
+,,Presentation Rehab and Skilled Care Center,10 Bellamy Street,Boston,2135,Metro Boston,,,,Nursing home,10 bellamy street,presentation rehab and skilled care center,,23.0
+,,Chestnut Hill of East Longmeadow,32 Chestnut Street,East Longmeadow,1028,Western Massachusetts,,,,Nursing home,32 chestnut street,chestnut hill of east longmeadow,,4.0
+,,Parsons Hill Rehabilitation & Health Care Center,1350 Main Street,Worcester,1603,Central Massachusetts,,,,Nursing home,1350 main street,parsons hill rehabilitation  health care center,,4.0
+,,Serenity Hill Nursing Center,655 Dedham Street,Wrentham,2093,Metro West,,,,Nursing home,655 dedham street,serenity hill nursing center,,3.0
+,,Care One at Brookline,99 Park Street,Brookline,2446,Metro Boston,,,,Nursing home,99 park street,care one at brookline,,20.0
+,,Waterview Lodge Rehabilitation & Healthcare,250 West Union Street,Ashland,1721,Metro West,,,,Nursing home,250 west union street,waterview lodge rehabilitation  healthcare,,4.0
+,,Aspen Hill Rehabilitation & Healthcare Center,190 North Avenue,Haverhill,1830,Northeastern Massachusetts,,,,Nursing home,190 north avenue,aspen hill rehabilitation  healthcare center,,5.0
+,,West Newton Healthcare,25 Armory Street,Newton,2465,Metro Boston,,,,Nursing home,25 armory street,west newton healthcare,,24.0
+,,Windemere Nursing & Rehabilitation Center,One Hospital Road,Oak Bluffs,2557,Cape and Islands,,,,Nursing home,one hospital road,windemere nursing  rehabilitation center,,1.0
+,,Winchester Rehabilitation and Nursing Center,223 Swanton Street,Winchester,1890,Northeastern Massachusetts,,,,Nursing home,223 swanton street,winchester rehabilitation and nursing center,,19.0
+,,Quabbin Valley Healthcare,821 Daniel Shays Highway,Athol,1331,Central Massachusetts,,,,Nursing home,821 daniel shays highway,quabbin valley healthcare,,2.0
+,,Dwyer Home,25 Stonehaven Drive,Weymouth,2190,Metro South,,,,Nursing home,25 stonehaven drive,dwyer home,,5.0
+,,Mont Marie Rehabilitation & Healthcare Center,36 Lower Westfield Road,Holyoke,1040,Western Massachusetts,,,,Nursing home,36 lower westfield road,mont marie rehabilitation  healthcare center,,6.0
+,,Parkway Health and Rehabilitation Center,1190 VFW Parkway,Boston,2132,Metro Boston,,,,Nursing home,1190 vfw parkway,parkway health and rehabilitation center,,20.0
+,,Laurel Ridge Rehab and Skilled Care Center,174 Forest Hills Street,Boston,2130,Metro Boston,,,,Nursing home,174 forest hills street,laurel ridge rehab and skilled care center,,20.0
+,,AdviniaCare Newton Wellesley,694 Worcester Street,Wellesley,2482,Metro Boston,,,,Nursing home,694 worcester street,adviniacare newton wellesley,,23.0
+,,Westborough Healthcare,8 Colonial Drive,Westborough,1581,Central Massachusetts,,,,Nursing home,8 colonial drive,westborough healthcare,,7.0
+,,"Penacook Place, Inc.",150 Water Street,Haverhill,1830,Northeastern Massachusetts,,,,Nursing home,150 water street,penacook place inc,,5.0
+,,Cedarwood Gardens,130 Chestnut Street,Franklin,2038,Metro West,,,,Nursing home,130 chestnut street,cedarwood gardens,,3.0
+,,RegalCare at Quincy,211 Franklin Street,Quincy,2169,Metro South,,,,Nursing home,211 franklin street,regalcare at quincy,,14.0
+,,Royal of Fairhaven Nursing Center,184 Main Street,Fairhaven,2719,Southcoast,,,,Nursing home,184 main street,royal of fairhaven nursing center,,4.0
+,,"Fall River Jewish Home, Inc.",538 Robeson Street,Fall River,2720,Southcoast,,,,Nursing home,538 robeson street,fall river jewish home inc,,4.0
+,,Bear Mountain at Reading,1364 Main Street,Reading,1867,Northeastern Massachusetts,,,,Nursing home,1364 main street,bear mountain at reading,,15.0
+,,Cardigan Nursing & Rehabilitation Center,59 Country Way,Scituate,2066,Metro South,,,,Nursing home,59 country way,cardigan nursing  rehabilitation center,,1.0
+,,RegalCare at Worcester,25 Oriol Drive,Worcester,1605,Central Massachusetts,,,,Nursing home,25 oriol drive,regalcare at worcester,,6.0
+,,The Berkeley Retirement Home,150 Berkeley Street,Lawrence,1841,Northeastern Massachusetts,,,,Nursing home,150 berkeley street,the berkeley retirement home,,9.0
+,,Life Care Center of Acton,1 Great Road,Acton,1720,Northeastern Massachusetts,,,,Nursing home,1 great road,life care center of acton,,7.0
+,,"Campion Health & Wellness, Inc.",319 Concord Road,Weston,2193,Metro Boston,,,,Nursing home,319 concord road,campion health  wellness inc,,12.0
+,,Carvalho Grove Health and Rehabilitation Center,273 Oak Grove Avenue,Fall River,2723,Southcoast,,,,Nursing home,273 oak grove avenue,carvalho grove health and rehabilitation center,,4.0
+,,D'Youville Senior Care,981 Varnum Avenue,Lowell,1854,Northeastern Massachusetts,,,,Nursing home,981 varnum avenue,dyouville senior care,,3.0
+,,Fitchburg Healthcare,1199 John Fitch Highway,Fitchburg,1420,Central Massachusetts,,,,Nursing home,1199 john fitch highway,fitchburg healthcare,,4.0
+,,Watertown Rehabilitation and Nursing Center,59 Coolidge Hill Road,Watertown,2472,Metro Boston,,,,Nursing home,59 coolidge hill road,watertown rehabilitation and nursing center,,21.0
+,,Whittier Westborough Transitional Care Unit,150 Flanders Road,Westborough,1581,Central Massachusetts,,,,Nursing home,150 flanders road,whittier westborough transitional care unit,,9.0
+,,Stone Rehabilitation and Senior Living,277 Elliot Street,Newton,2464,Metro Boston,,,,Nursing home,277 elliot street,stone rehabilitation and senior living,,25.0
+,,Mount Greylock Extended Care Facility,1000 North Street,Pittsfield,1201,Western Massachusetts,,,,Nursing home,1000 north street,mount greylock extended care facility,,1.0
+,,Southshore Health Care Center,115 North Avenue,Rockland,2370,Metro South,,,,Nursing home,115 north avenue,southshore health care center,,5.0
+,,Sherrill House,135 South Huntington Avenue,Boston,2130,Metro Boston,,,,Nursing home,135 south huntington avenue,sherrill house,,20.0
+,,Holy Trinity Eastern Orthodox Nursing & Rehabilitation Center,300 Barber Avenue,Worcester,1606,Central Massachusetts,,,,Nursing home,300 barber avenue,holy trinity eastern orthodox nursing  rehabilitation center,,6.0
+,,Care One at Lowell,19 Varnum Street,Lowell,1850,Northeastern Massachusetts,,,,Nursing home,19 varnum street,care one at lowell,,5.0
+,,Savoy Nursing & Rehab Center,670 County Street,New Bedford,2740,Southcoast,,,,Nursing home,670 county street,savoy nursing  rehab center,,4.0
+,,Dexter House Healthcare,120 Main Street,Malden,2148,Metro Boston,,,,Nursing home,120 main street,dexter house healthcare,,19.0
+,,Mount Carmel Care Center,320 Pittsfield Road,Lenox,1240,Western Massachusetts,,,,Nursing home,320 pittsfield road,mount carmel care center,,2.0
+,,Fairhaven Healthcare Center,476 Varnum Avenue,Lowell,1854,Northeastern Massachusetts,,,,Nursing home,476 varnum avenue,fairhaven healthcare center,,4.0
+,,Pilgrim Rehabilitation & Skilled Nursing Center,96 Forest Street,Peabody,1960,Northeastern Massachusetts,,,,Nursing home,96 forest street,pilgrim rehabilitation  skilled nursing center,,14.0
+,,Sippican Healthcare Center,15 Mill Street,Marion,2738,Southcoast,,,,Nursing home,15 mill street,sippican healthcare center,,4.0
+,,Maristhill Nursing & Rehabilitation Center,66 Newton Street,Waltham,2453,Metro Boston,,,,Nursing home,66 newton street,maristhill nursing  rehabilitation center,,22.0
+,,RegalCare at Lowell,30 Princeton Boulevard,Lowell,1851,Northeastern Massachusetts,,,,Nursing home,30 princeton boulevard,regalcare at lowell,,5.0
+,,Alden Court Nursing Care & Rehabilitation Center,389 Alden Road,Fairhaven,2719,Southcoast,,,,Nursing home,389 alden road,alden court nursing care  rehabilitation center,,4.0
+,,Kimball Farms Nursing Care Center,40 Sunset Avenue,Lenox,1240,Western Massachusetts,,,,Nursing home,40 sunset avenue,kimball farms nursing care center,,2.0
+,,The Pavilion Rehabilitation and Nursing Center,876 Falmouth Road,Hyannis,2601,Cape and Islands,,,,Nursing home,876 falmouth road,the pavilion rehabilitation and nursing center,,1.0
+,,Poet's Seat Healthcare Center,359 High Street,Greenfield,1301,Western Massachusetts,,,,Nursing home,359 high street,poets seat healthcare center,,2.0
+,,RegalCare at Holyoke,282 Cabot Street,Holyoke,1040,Western Massachusetts,,,,Nursing home,282 cabot street,regalcare at holyoke,,6.0
+,,Care One at Holyoke,260 Easthampton Road,Holyoke,1040,Western Massachusetts,,,,Nursing home,260 easthampton road,care one at holyoke,,6.0
+,,Loomis Lakeside at Reeds Landing,807 Wilbraham Road,Springfield,1109,Western Massachusetts,,,,Nursing home,807 wilbraham road,loomis lakeside at reeds landing,,4.0
+,,Berkshire Place,290 South Street,Pittsfield,1201,Western Massachusetts,,,,Nursing home,290 south street,berkshire place,,1.0
+,,Alliance Health at Marina Bay,2 Seaport Drive,Quincy,2171,Metro Boston,,,,Nursing home,2 seaport drive,alliance health at marina bay,,20.0
+,,Care One at Newton,2101 Washington Street,Newton,2462,Metro Boston,,,,Nursing home,2101 washington street,care one at newton,,26.0
+,,Royal Wood Mill Center,800 Essex Street,Lawrence,1841,Northeastern Massachusetts,,,,Nursing home,800 essex street,royal wood mill center,,8.0
+,,Phillips Manor Nursing Home,28 Linwood Road,Lynn,1905,Northeastern Massachusetts,,,,Nursing home,28 linwood road,phillips manor nursing home,,10.0
+,,Charlene Manor Extended Care Facility,130 Colrain Road,Greenfield,1301,Western Massachusetts,,,,Nursing home,130 colrain road,charlene manor extended care facility,,2.0
+,,"Vantage at Hampden, LLC",34 Main Street,Hampden,1036,Western Massachusetts,,,,Nursing home,34 main street,vantage at hampden llc,,3.0
+,,Timberlyn Heights Nursing and Rehabilitation,320 Maple Avenue,Great Barrington,1230,Western Massachusetts,,,,Nursing home,320 maple avenue,timberlyn heights nursing and rehabilitation,,1.0
+,,Springside Rehabilitation and Skilled Care Center,255 Lebanon Avenue,Pittsfield,1201,Western Massachusetts,,,,Nursing home,255 lebanon avenue,springside rehabilitation and skilled care center,,1.0
+,,Sarah S. Brayton Center,4901 North Main Street,Fall River,2720,Southcoast,,,,Nursing home,4901 north main street,sarah s brayton center,,5.0
+,,Life Care Center of Attleboro,969 Park Street,Attleboro,2703,Metro West,,,,Nursing home,969 park street,life care center of attleboro,,2.0
+,,EMERSON REHAB & TRANS CARE UNIT,133 OLD ROAD TO NINE ACRE CORNER,CONCORD,1742,,,,,Nursing home,133 old road to nine acre corner,emerson rehab  trans care unit,,7.0
+,,"New Bedford Jewish Convalescent Home, Inc.",200 Hawthorn Street,New Bedford,2740,Southcoast,,,,Nursing home,200 hawthorn street,new bedford jewish convalescent home inc,,4.0
+,,Academy Manor Rehab and Nursing,89 Morton Street,Andover,1810,Northeastern Massachusetts,,,,Nursing home,89 morton street,academy manor rehab and nursing,,9.0
+,,Mary Immaculate Nursing & Restorative Center,172 Lawrence Street,Lawrence,1841,Northeastern Massachusetts,,,,Nursing home,172 lawrence street,mary immaculate nursing  restorative center,,8.0
+,,Marian Manor of Taunton,33 Summer Street,Taunton,2780,Metro South,,,,Nursing home,33 summer street,marian manor of taunton,,5.0
+,,Brigham Health and Rehabilitation Center LLC,77 High Street,Newburyport,1950,Northeastern Massachusetts,,,,Nursing home,77 high street,brigham health and rehabilitation center llc,,3.0
+,,Harbor House Nursing & Rehabilitation Center,11 Condito Road,Hingham,2043,Metro South,,,,Nursing home,11 condito road,harbor house nursing  rehabilitation center,,3.0
+,,Alliance Health at West Acres,804 Pleasant Street,Brockton,2301,Metro South,,,,Nursing home,804 pleasant street,alliance health at west acres,,9.0
+,,Day Brook Village Senior Living,298 Jarvis Avenue,Holyoke,1040,Western Massachusetts,,,,Nursing home,298 jarvis avenue,day brook village senior living,,6.0
+,,Ayer Valley Rehab and Nursing,400 Groton Road,Ayer,1432,Northeastern Massachusetts,,,,Nursing home,400 groton road,ayer valley rehab and nursing,,4.0
+,,Brighton House Rehabilitation & Nursing Center,170 Corey Road,Boston,2135,Metro Boston,,,,Nursing home,170 corey road,brighton house rehabilitation  nursing center,,20.0
+,,Marian Manor,130 Dorchester Street,Boston,2127,Metro Boston,,,,Nursing home,130 dorchester street,marian manor,,23.0
+,,Mayflower Place Nursing and Rehabilitation Center,579 Buck Island Road,Yarmouth,2673,Cape and Islands,,,,Nursing home,579 buck island road,mayflower place nursing and rehabilitation center,,1.0
+,,Northwood Rehabilitation & Healthcare Center,1010 Varnum Avenue,Lowell,1854,Northeastern Massachusetts,,,,Nursing home,1010 varnum avenue,northwood rehabilitation  healthcare center,,3.0
+,,Life Care Center of Auburn,14 Masonic Circle,Auburn,1501,Central Massachusetts,,,,Nursing home,14 masonic circle,life care center of auburn,,4.0
+,,RegalCare at Harwich,111 Headwaters Drive,Harwich,2645,Cape and Islands,,,,Nursing home,111 headwaters drive,regalcare at harwich,,1.0
+,,Countryside Health Care of Milford,One Countryside Drive,Milford,1757,Metro West,,,,Nursing home,one countryside drive,countryside health care of milford,,2.0
+,,Medway Country Manor Skilled Nursing & Rehab,115 Holliston Street,Medway,2053,Metro West,,,,Nursing home,115 holliston street,medway country manor skilled nursing  rehab,,5.0
+,,AdviniaCare Natick,168 West Central Street,Natick,1760,Metro West,,,,Nursing home,168 west central street,adviniacare natick,,5.0
+,,Lutheran Rehabilitation & Skilled Care Center,26 Harvard Street,Worcester,1609,Central Massachusetts,,,,Nursing home,26 harvard street,lutheran rehabilitation  skilled care center,,6.0
+,,Southbridge Rehabilitation & Health Care Center,84 Chapin Street,Southbridge,1550,Central Massachusetts,,,,Nursing home,84 chapin street,southbridge rehabilitation  health care center,,1.0
+,,Victoria Haven Nursing Facility,137 Nichols Street,Norwood,2062,Metro West,,,,Nursing home,137 nichols street,victoria haven nursing facility,,9.0
+,,Agawam East Rehab and Nursing,464 Main Street,Agawam,1001,Western Massachusetts,,,,Nursing home,464 main street,agawam east rehab and nursing,,5.0
+,,The Bostonian Nursing Care & Rehabilitation Center,337 Neponset Avenue,Boston,2122,Metro Boston,,,,Nursing home,337 neponset avenue,the bostonian nursing care  rehabilitation center,,23.0
+,,Rehabilitation & Nursing Center at Everett,289 Elm Street,Everett,2149,Metro Boston,,,,Nursing home,289 elm street,rehabilitation  nursing center at everett,,19.0
+,,Hellenic Nursing & Rehabilitation Center,601 Sherman Street,Canton,2021,Metro West,,,,Nursing home,601 sherman street,hellenic nursing  rehabilitation center,,10.0
+,,Mattapan Health and Rehabilitation Center,405 River Street,Boston,2126,Metro Boston,,,,Nursing home,405 river street,mattapan health and rehabilitation center,,19.0
+,,Quaboag Rehabilitation & Skilled Care Facility,47 East Main Street,West Brookfield,1585,Western Massachusetts,,,,Nursing home,47 east main street,quaboag rehabilitation  skilled care facility,,2.0
+,,Belmont Manor Nursing and Rehabilitation Center,34 Agassiz Avenue,Belmont,2478,Metro Boston,,,,Nursing home,34 agassiz avenue,belmont manor nursing and rehabilitation center,,20.0
+,,The Landing at Laurel Lake,620 Laurel Street,Lee,1238,Western Massachusetts,,,,Nursing home,620 laurel street,the landing at laurel lake,,2.0
+,,Agawam North Rehab and Nursing,55 Cooper Street,Agawam,1001,Western Massachusetts,,,,Nursing home,55 cooper street,agawam north rehab and nursing,,5.0
+,,AdviniaCare Abington,277 Washington Street,Abington,2351,Metro South,,,,Nursing home,277 washington street,adviniacare abington,,3.0
+,,Rivercrest Long Term Care Facility,80 Deaconess Road,Concord,1742,Northeastern Massachusetts,,,,Nursing home,80 deaconess road,rivercrest long term care facility,,7.0
+,,Brush Hill Care Center,1200 Brush Hill Road,Milton,2186,Metro Boston,,,,Nursing home,1200 brush hill road,brush hill care center,,17.0
+,,Life Care Center of Merrimack Valley,80 Boston Road,Billerica,1862,Northeastern Massachusetts,,,,Nursing home,80 boston road,life care center of merrimack valley,,8.0
+,,Masconomet Healthcare Center,123 High Street,Topsfield,1983,Northeastern Massachusetts,,,,Nursing home,123 high street,masconomet healthcare center,,10.0
+,,Katzman Family Center for Living,17 Lafayette Avenue,Chelsea,2150,Metro Boston,,,,Nursing home,17 lafayette avenue,katzman family center for living,,21.0
+,,Aberjona Rehabilitation & Nursing Center,184 Swanton Street,Winchester,1890,Northeastern Massachusetts,,,,Nursing home,184 swanton street,aberjona rehabilitation  nursing center,,19.0
+,,Pond Home,289 East Street,Wrentham,2093,Metro West,,,,Nursing home,289 east street,pond home,,4.0
+,,Alliance Health at Baldwinville,51 Hospital Road,Templeton,1436,Central Massachusetts,,,,Nursing home,51 hospital road,alliance health at baldwinville,,3.0
+,,Westford Nursing and Rehabilitation Center,3 Park Drive,Westford,1886,Northeastern Massachusetts,,,,Nursing home,3 park drive,westford nursing and rehabilitation center,,9.0
+,,John Scott House Nursing & Rehabilitation Center,233 Middle Street,Braintree,2184,Metro South,,,,Nursing home,233 middle street,john scott house nursing  rehabilitation center,,14.0
+,,Neville Center at Fresh Pond for Nursing & Rehab,640 Concord Avenue,Cambridge,2138,Metro Boston,,,,Nursing home,640 concord avenue,neville center at fresh pond for nursing  rehab,,20.0
+,,St. Francis Rehabilitation & Nursing Center,101 Plantation Street,Worcester,1604,Central Massachusetts,,,,Nursing home,101 plantation street,st francis rehabilitation  nursing center,,6.0
+,,Care One at Wilmington,750 Woburn Street,Wilmington,1887,Northeastern Massachusetts,,,,Nursing home,750 woburn street,care one at wilmington,,18.0
+,,The Guardian Center,888 North Main Street,Brockton,2301,Metro South,,,,Nursing home,888 north main street,the guardian center,,8.0
+,,New England Pediatric Care,78 Boston Road,Billerica,1862,Northeastern Massachusetts,,,,Nursing home,78 boston road,new england pediatric care,,7.0
+,,Sterling Village,18 Dana Hill Road,Sterling,1564,Central Massachusetts,,,,Nursing home,18 dana hill road,sterling village,,7.0
+,,Meadow Green Nursing and Rehabilitation Center,45 Woburn Street,Waltham,2452,Metro Boston,,,,Nursing home,45 woburn street,meadow green nursing and rehabilitation center,,18.0
+,,Lydia Taft House,60 Quaker Highway,Uxbridge,1569,Central Massachusetts,,,,Nursing home,60 quaker highway,lydia taft house,,3.0
+,,Chicopee Rehabilitation and Nursing,44 New Lombard Road,Chicopee,1020,Western Massachusetts,,,,Nursing home,44 new lombard road,chicopee rehabilitation and nursing,,6.0
+,,Cedar View Rehabilitation and Healthcare Center,480 Jackson Street,Methuen,1844,Northeastern Massachusetts,,,,Nursing home,480 jackson street,cedar view rehabilitation and healthcare center,,9.0
+,,Life Care Center of the South Shore,309 Driftway,Scituate,2066,Metro South,,,,Nursing home,309 driftway,life care center of the south shore,,1.0
+,,German Center for Extended Care,2222 Centre Street,Boston,2132,Metro Boston,,,,Nursing home,2222 centre street,german center for extended care,,17.0
+,,Vantage at South Hadley,573 Granby Road,South Hadley,1075,Western Massachusetts,,,,Nursing home,573 granby road,vantage at south hadley,,6.0
+,,Chestnut Woods Rehabilitation & Healthcare Center,73 Chestnut Street,Saugus,1906,Metro Boston,,,,Nursing home,73 chestnut street,chestnut woods rehabilitation  healthcare center,,16.0
