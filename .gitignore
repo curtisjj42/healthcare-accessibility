@@ -1,6 +1,6 @@
-/census_data
-/counties
-/mcd
+/census_data/
+/counties/
+/mcd/
 failed-geocoding.csv
 geocoded-healthcare-facilities.gpkg
 healthcare-facilities-with-lat-lng.csv
