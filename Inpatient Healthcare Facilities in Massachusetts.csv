@@ -24,7 +24,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 2020,Metrowest Medical Center-Framingham Union Hospital,Framingham Union Hospital,115 Lincoln Street,Framingham,1702,Metro West,Community-High Public Payer Hospital,Tenet Healthcare,(508) 383-1000,Hospital,115 lincoln street,metrowest medical centerframingham union hospital,45.0,5.0
 2311,Steward Good Samaritan Medical Center,Good Samaritan Medical Center,235 North Pearl Street,Brockton,2301,Metro South,Community-High Public Payer Hospital,Steward Health Care,(508) 427-3000,Hospital,235 north pearl street,steward good samaritan medical center,64.0,9.0
 2003,Steward Carney Hospital,Carney Hospital,2100 Dorchester Avenue,Boston,2124,Metro Boston,Teaching Hospital,Steward Health Care,(617) 296-4000,Hospital,2100 dorchester avenue,steward carney hospital,72.0,21.0
-2042,Martha's Vineyard Hospital,Martha's Vineyard Hospital,One Hospital Road,Oak Bluffs,2557,Cape and Islands,Community Hospital,Mass General Brigham,(508) 693-0410,Hospital,one hospital road,marthas vineyard hospital,1.0,0.0
+2042,Martha's Vineyard Hospital,Martha's Vineyard Hospital,1 Hospital Road,Oak Bluffs,2557,Cape and Islands,Community Hospital,Mass General Brigham,(508) 693-0410,Hospital,1 hospital road,marthas vineyard hospital,1.0,0.0
 2018,Emerson Hospital,Emerson Hospital,133 Old Road to Nine Acre Corner,Concord,1742,Northeastern Massachusetts,Community Hospital,Emerson Health System Inc. and Subsid.,(978) 369-1400,Hospital,133 old road to nine acre corner,emerson hospital,48.0,6.0
 2149,Mercy Medical Center,Mercy Medical Center,271 Carew Street,Springfield,1104,Western Massachusetts,Community-High Public Payer Hospital,Trinity Health,(413) 748-9000,Hospital,271 carew street,mercy medical center,32.0,5.0
 2108,CHA Cambridge Hospital,Cambridge Hospital,1493 Cambridge Street,Cambridge,2139,Metro Boston,Teaching Hospital,Cambridge Health Alliance,(617) 665-1000,Hospital,1493 cambridge street,cha cambridge hospital,59.0,20.0
@@ -67,7 +67,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 2289,Falmouth Hospital,Falmouth Hospital,100 Ter Heun Drive,Falmouth,2540,Cape and Islands,Community-High Public Payer Hospital,Cape Cod Healthcare,(508) 548-5300,Hospital,100 ter heun drive,falmouth hospital,8.0,1.0
 2145,Holyoke Medical Center,Holyoke Medical Center,575 Beech Street,Holyoke,1040,Western Massachusetts,Community-High Public Payer Hospital,Valley Health System,(413) 534-2500,Hospital,575 beech street,holyoke medical center,35.0,5.0
 2006,Anna Jaques Hospital,Anna Jaques Hospital,25 Highland Avenue,Newburyport,1950,Northeastern Massachusetts,Community Hospital,Beth Israel Lahey Health,(978) 463-1000,Hospital,25 highland avenue,anna jaques hospital,28.0,4.0
-2307,Boston Medical Center - Menino Pavilion,BMC - Menino Pavilion,830-840 Harrison Avenue,Boston,2118,Metro Boston,Academic Medical Center,Boston Medical Center Health System,(617) 414-4128,Hospital,830840 harrison avenue,boston medical center  menino pavilion,73.0,21.0
+2307,Boston Medical Center - Menino Pavilion,BMC - Menino Pavilion,840 Harrison Avenue,Boston,2118,Metro Boston,Academic Medical Center,Boston Medical Center Health System,(617) 414-4128,Hospital,840 harrison avenue,boston medical center  menino pavilion,73.0,21.0
 2298,Steward Nashoba Valley Medical Center,Nashoba Valley Medical Center,200 Groton Street,Ayer,1432,Northeastern Massachusetts,Community-High Public Payer Hospital,Steward Health Care,(978) 784-9000,Hospital,200 groton street,steward nashoba valley medical center,16.0,3.0
 2127,UMass Memorial HealthAlliance-Clinton Hospital Leominster,HealthAlliance Hospital - Leominster Campus,60 Hospital Road,Leominster,1453,Central Massachusetts,Community-High Public Payer Hospital,UMass Memorial Health Care,(978) 466-2000,Hospital,60 hospital road,umass memorial healthallianceclinton hospital leominster,30.0,6.0
 ,,Pine Knoll Nursing Center,30 Watertown Street,Lexington,2421,Northeastern Massachusetts,,,,Nursing home,30 watertown street,pine knoll nursing center,,21.0
@@ -156,7 +156,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 ,,"Royal Nursing Center, LLC",359 Jones Road,Falmouth,2540,Cape and Islands,,,,Nursing home,359 jones road,royal nursing center llc,,1.0
 ,,Thomas Upham House,519 Main Street,Medfield,2052,Metro West,,,,Nursing home,519 main street,thomas upham house,,5.0
 ,,Melrose Healthcare,40 Martin Street,Melrose,2176,Metro Boston,,,,Nursing home,40 martin street,melrose healthcare,,19.0
-,,Beaumont Rehab & Skilled Nursing Natick,"3 Vision Drive, 2nd Floor",Natick,1760,Metro West,,,,Nursing home,3 vision drive 2nd floor,beaumont rehab  skilled nursing natick,,9.0
+,,Beaumont Rehab & Skilled Nursing Natick,3 Vision Drive,Natick,1760,Metro West,,,,Nursing home,3 vision drive,beaumont rehab  skilled nursing natick,,9.0
 ,,Formost at Sharon LLC,259 Norwood Street,Sharon,2067,Metro West,,,,Nursing home,259 norwood street,formost at sharon llc,,9.0
 ,,Worcester Rehabilitation & Health Care Center,119 Providence Street,Worcester,1604,Central Massachusetts,,,,Nursing home,119 providence street,worcester rehabilitation  health care center,,6.0
 ,,Care One at Peabody,199 Andover Street,Peabody,1960,Northeastern Massachusetts,,,,Nursing home,199 andover street,care one at peabody,,10.0
@@ -170,7 +170,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 ,,Royal Meadow View Center,134 North Street,North Reading,1864,Northeastern Massachusetts,,,,Nursing home,134 north street,royal meadow view center,,10.0
 ,,Wilmington Rehab Center,90 West Street,Wilmington,1887,Northeastern Massachusetts,,,,Nursing home,90 west street,wilmington rehab center,,22.0
 ,,Brandon Woods of New Bedford,397 County Street,New Bedford,2740,Southcoast,,,,Nursing home,397 county street,brandon woods of new bedford,,4.0
-,,Life Care Center of Raynham,546 South Street,Raynham,2767,Metro South,,,,Nursing home,546 south street,life care center of raynham,,8.0
+,,Life Care Center of Raynham,546 South Street W,Raynham,2767,Metro South,,,,Nursing home,546 south street w,life care center of raynham,,8.0
 ,,Walpole Healthcare,160 Main Street,Walpole,2081,Metro West,,,,Nursing home,160 main street,walpole healthcare,,7.0
 ,,JML Care Center,184 Ter Heun Drive,Falmouth,2540,Cape and Islands,,,,Nursing home,184 ter heun drive,jml care center,,1.0
 ,,River Terrace Rehabilitation and Healthcare Center,1675 North Main Street,Lancaster,1523,Central Massachusetts,,,,Nursing home,1675 north main street,river terrace rehabilitation and healthcare center,,8.0
@@ -178,7 +178,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 ,,Marlborough Hills Rehabiltiation & Health Care Center,121 Northboro Road East,Marlborough,1752,Metro West,,,,Nursing home,121 northboro road east,marlborough hills rehabiltiation  health care center,,7.0
 ,,Blaire House of Worcester,116 Houghton Street,Worcester,1604,Central Massachusetts,,,,Nursing home,116 houghton street,blaire house of worcester,,6.0
 ,,Bridgewater Nursing Home,16 Pleasant Street,Bridgewater,2324,Metro South,,,,Nursing home,16 pleasant street,bridgewater nursing home,,5.0
-,,Hannah B. G. Shaw Home,"299 Wareham Street, P.O. Box 390",Middleborough,2346,Metro South,,,,Nursing home,299 wareham street po box 390,hannah b g shaw home,,4.0
+,,Hannah B. G. Shaw Home,299 Wareham Street,Middleborough,2346,Metro South,,,,Nursing home,299 wareham street,hannah b g shaw home,,4.0
 ,,Tremont Health Care Center,605 Main Street,Wareham,2571,Southcoast,,,,Nursing home,605 main street,tremont health care center,,3.0
 ,,The Hermitage Healthcare,383 Mills Street,Worcester,1602,Central Massachusetts,,,,Nursing home,383 mills street,the hermitage healthcare,,3.0
 ,,Fitchburg Rehabilitation and Nursing Center,94 Summer Street,Fitchburg,1420,Central Massachusetts,,,,Nursing home,94 summer street,fitchburg rehabilitation and nursing center,,4.0
@@ -213,7 +213,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 ,,Maplewood Center,6 Morrill Place,Amesbury,1913,Northeastern Massachusetts,,,,Nursing home,6 morrill place,maplewood center,,4.0
 ,,Devereux Skilled Nursing & Rehabilitation Center,39 Lafayette Street,Marblehead,1945,Northeastern Massachusetts,,,,Nursing home,39 lafayette street,devereux skilled nursing  rehabilitation center,,3.0
 ,,Carleton-Willard Village Retirement and Nursing Center,100 Old Billerica Road,Bedford,1730,Northeastern Massachusetts,,,,Nursing home,100 old billerica road,carletonwillard village retirement and nursing center,,12.0
-,,"Boston Home, Inc.",2049-2061 Dorchester Avenue,Boston,2124,Metro Boston,,,,Nursing home,20492061 dorchester avenue,boston home inc,,22.0
+,,"Boston Home, Inc.",2061 Dorchester Avenue,Boston,2124,Metro Boston,,,,Nursing home,2049 dorchester avenue,boston home inc,,22.0
 ,,Alliance Health at Maples,90 Taunton Street,Wrentham,2093,Metro West,,,,Nursing home,90 taunton street,alliance health at maples,,4.0
 ,,Shrewsbury Nursing & Rehabilitation Center,40 Julio Drive,Shrewsbury,1545,Central Massachusetts,,,,Nursing home,40 julio drive,shrewsbury nursing  rehabilitation center,,6.0
 ,,Somerset Ridge Center,455 Brayton Avenue,Somerset,2726,Southcoast,,,,Nursing home,455 brayton avenue,somerset ridge center,,4.0
@@ -255,7 +255,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 ,,Odd Fellows Home of Massachusetts,104 Randolph Road,Worcester,1606,Central Massachusetts,,,,Nursing home,104 randolph road,odd fellows home of massachusetts,,6.0
 ,,Blue Hills Health and Rehabilitation Center,1044 Park Street,Stoughton,2072,Metro South,,,,Nursing home,1044 park street,blue hills health and rehabilitation center,,9.0
 ,,Westfield Center,60 East Silver Street,Westfield,1085,Western Massachusetts,,,,Nursing home,60 east silver street,westfield center,,4.0
-,,OVERLOOK MASONIC HEALTH CENTER,"88 MASONIC HOME ROAD, BOX 1000",CHARLTON,1507,,,,,Nursing home,88 masonic home road box 1000,overlook masonic health center,,4.0
+,,OVERLOOK MASONIC HEALTH CENTER,88 MASONIC HOME ROAD,CHARLTON,1507,,,,,Nursing home,88 masonic home road,overlook masonic health center,,4.0
 ,,Hunt Nursing & Rehabilitation Center,90 Lindall Street,Danvers,1923,Northeastern Massachusetts,,,,Nursing home,90 lindall street,hunt nursing  rehabilitation center,,10.0
 ,,Port Healthcare Center,6 Hale Street,Newburyport,1950,Northeastern Massachusetts,,,,Nursing home,6 hale street,port healthcare center,,5.0
 ,,Spaulding Nursing & Therapy Center - Brighton,100 North Beacon Street,Boston,2109,Metro Boston,,,,Nursing home,100 north beacon street,spaulding nursing  therapy center  brighton,,21.0
@@ -313,7 +313,7 @@ IDNUMBER,Hospital,Facility name,Address,Town,ZIP code,CHIA region,Type of hospit
 ,,Waterview Lodge Rehabilitation & Healthcare,250 West Union Street,Ashland,1721,Metro West,,,,Nursing home,250 west union street,waterview lodge rehabilitation  healthcare,,4.0
 ,,Aspen Hill Rehabilitation & Healthcare Center,190 North Avenue,Haverhill,1830,Northeastern Massachusetts,,,,Nursing home,190 north avenue,aspen hill rehabilitation  healthcare center,,5.0
 ,,West Newton Healthcare,25 Armory Street,Newton,2465,Metro Boston,,,,Nursing home,25 armory street,west newton healthcare,,24.0
-,,Windemere Nursing & Rehabilitation Center,One Hospital Road,Oak Bluffs,2557,Cape and Islands,,,,Nursing home,one hospital road,windemere nursing  rehabilitation center,,1.0
+,,Windemere Nursing & Rehabilitation Center,1 Hospital Road,Oak Bluffs,2557,Cape and Islands,,,,Nursing home,1 hospital road,windemere nursing  rehabilitation center,,1.0
 ,,Winchester Rehabilitation and Nursing Center,223 Swanton Street,Winchester,1890,Northeastern Massachusetts,,,,Nursing home,223 swanton street,winchester rehabilitation and nursing center,,19.0
 ,,Quabbin Valley Healthcare,821 Daniel Shays Highway,Athol,1331,Central Massachusetts,,,,Nursing home,821 daniel shays highway,quabbin valley healthcare,,2.0
 ,,Dwyer Home,25 Stonehaven Drive,Weymouth,2190,Metro South,,,,Nursing home,25 stonehaven drive,dwyer home,,5.0
